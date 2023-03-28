@@ -1,6 +1,6 @@
 name="AH2 Build WizNino"
 version="1.0"
-url="https://www.dropbox.com/s/5crghokjtrci206/AH2_Build_WizNino.zip?dl=1"
+url="https://www.dropbox.com/s/5crghokjtrci206/AH2BuildWizNino.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/yugaxxce0chcm7a/WizNino_guisettings.zip?dl=1"
 kodi="21.0"
