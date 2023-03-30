@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/Ninodademon/ninodademon.github.io/main/i
 fanart="https://raw.githubusercontent.com/Ninodademon/ninodademon.github.io/main/fanart.jpg"
 preview="https://raw.githubusercontent.com/Ninodademon/ninodademon.github.io/main/AH2Custom.png"
 adult="no"
-info="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/Build%20Info/Ragnarok.txt"
+info="http://"
 description="Custom amateur build using Artic Horizon 2 Skin."
 
 name="AH2 Build Abtemp"
@@ -23,5 +23,5 @@ icon="https://raw.githubusercontent.com/Ninodademon/ninodademon.github.io/main/i
 fanart="https://raw.githubusercontent.com/Ninodademon/ninodademon.github.io/main/fanart.jpg"
 preview="https://raw.githubusercontent.com/Ninodademon/ninodademon.github.io/main/AH2Custom.png"
 adult="no"
-info="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/Build%20Info/Ragnarok.txt"
+info="http://"
 description="Custom amateur build using Artic Horizon 2 Skin- Abtemp."
